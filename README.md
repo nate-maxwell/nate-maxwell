@@ -47,7 +47,7 @@ Greetings, I'm Nathan Maxwell!
     <tr>
         <td width="33%">
             <img src="https://i.imgur.com/PWuYzPp.jpeg" alt="Crossfire X">
-                <b>The March</b>
+                <b>Crossfire X</b>
             2020
         </td>
         <td width="33%">
