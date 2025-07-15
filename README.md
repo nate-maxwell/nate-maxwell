@@ -3,6 +3,7 @@
 Greetings, I'm Nathan Maxwell!
 
 - Lead Unreal Engine Technical Artist and Pipeline Developer at **Digital Domain 3.0**.
+        - Principal architect of next gen visualization pipeline.
 
 - Addicted to learning, passionate developer.
 
