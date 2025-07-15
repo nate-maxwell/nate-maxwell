@@ -10,6 +10,23 @@ Greetings, I'm Nathan Maxwell!
 
 # Work
 <table>
+<tr>
+        <td>
+            <img src="https://i.imgur.com/gouRt2i.jpg" alt="TLOU">
+                <b>The Last Of Us Season 2</b>
+            2024
+        </td>
+        <td>
+            <img src="https://i.imgur.com/eAjMIA0.jpg" alt="Agatha CoC">
+                <b>Agatha Coven of Chaos</b>
+            2023
+        </td>
+        <td>
+            <img src="https://i.imgur.com/5ITPEWm.jpg" alt="Thunderbolts">
+                <b>Thunderbolts</b>
+            2023
+        </td>
+    </tr>
     <tr>
         <td>
             <img src="https://i.imgur.com/oAfmEJ9.jpeg" alt="Zoey">
