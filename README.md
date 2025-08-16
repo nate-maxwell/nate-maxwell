@@ -92,7 +92,7 @@ Greetings, I'm Nathan Maxwell!
         </td>
         <td width="16%">
             <img src="https://i.imgur.com/N9TKwSU.jpeg" alt="The March">
-                <b>The March</b>
+                <b>Time Magazine's The March</b>
         </td>
     </tr>
 </table>
