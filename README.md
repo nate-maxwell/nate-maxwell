@@ -3,6 +3,8 @@
 Greetings, I'm Nathan Maxwell!
 
 - Lead Unreal Engine Technical Artist and Pipeline Developer at **Digital Domain 3.0**.
+  
+    Principal architect of next gen visualization pipeline.
 
 - Addicted to learning, passionate developer.
 
@@ -10,6 +12,23 @@ Greetings, I'm Nathan Maxwell!
 
 # Filmography
 <table>
+<tr>
+        <td>
+            <img src="https://i.imgur.com/gouRt2i.jpg" alt="TLOU">
+                <b>The Last Of Us Season 2</b>
+            2024
+        </td>
+        <td>
+            <img src="https://i.imgur.com/eAjMIA0.jpg" alt="Agatha CoC">
+                <b>Agatha Coven of Chaos</b>
+            2023
+        </td>
+        <td>
+            <img src="https://i.imgur.com/5ITPEWm.jpg" alt="Thunderbolts">
+                <b>Thunderbolts</b>
+            2023
+        </td>
+    </tr>
     <tr>
         <td>
             <img src="https://i.imgur.com/gouRt2i.jpg" alt="TLOU-S2">
