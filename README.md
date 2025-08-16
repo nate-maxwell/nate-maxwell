@@ -8,52 +8,72 @@ Greetings, I'm Nathan Maxwell!
 
 - I make teams scale.
 
-# Work
+# Filmography
 <table>
     <tr>
         <td>
-            <img src="https://i.imgur.com/oAfmEJ9.jpeg" alt="Zoey">
-                <b>Zoey Virtual Human</b>
-            2022
+            <img src="https://i.imgur.com/gouRt2i.jpg" alt="TLOU-S2">
+                <b>The Last of Us Season 2</b>
+        </td>
+        <td>
+            <img src="https://i.imgur.com/eAjMIA0.jpg" alt="Agatha">
+                <b>Agatha: Coven of Chaos</b>
+        </td>
+        <td width="33%">
+            <img src="https://i.imgur.com/6FscQao.jpeg" alt="Sims">
+                <b>Live the Sims Life</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://i.imgur.com/swZtOBH.jpeg" alt="Morbius">
+                <b>Morbius</b>
         </td>
         <td>
             <img src="https://i.imgur.com/D3RgHJZ.jpeg" alt="She-Hulk">
                 <b>She-Hulk</b>
-            2021
         </td>
         <td>
             <img src="https://i.imgur.com/Loli5QD.jpg" alt="Black Panther">
                 <b>Black Panther Wakanda Forever</b>
-            2021
         </td>
     </tr>
     <tr>
-        <td width="33%">
-            <img src="https://i.imgur.com/6FscQao.jpeg" alt="Sims">
-                <b>Live the Sims Life</b>
-            2020
-        </td>
-        <td>
-            <img src="https://i.imgur.com/swZtOBH.jpeg" alt="Morbius">
-                <b>Morbius</b>
-            2020
-        </td>
         <td width="33%">
             <img src="https://i.imgur.com/3ElbW4O.jpeg" alt="Spider-Man">
                 <b>Spider-Man No Way Home</b>
-            2020
         </td>
     </tr>
+</table>
+
+# Games
+<table>
     <tr>
         <td width="33%">
-            <img src="https://i.imgur.com/PWuYzPp.jpeg" alt="Crossfire X">
+            <img src="https://i.imgur.com/PWuYzPp.jpeg" alt="Crossfire-X">
                 <b>Crossfire X</b>
-            2020
         </td>
         <td width="33%">
+            <img src="https://i.imgur.com/M8UZSc9.png" alt="Sims4">
+                <b>Sims 4</b>
+        </td>
+        <td width="33%">
+            <img src="https://i.imgur.com/kN8ysgi.png" alt="TBA">
+                <b>Unannounced Survival Game</b>
+        </td>
+    </tr>
+</table>
+
+# Interactives
+<table>
+    <tr>
+        <td width="17%">
+            <img src="https://i.imgur.com/oAfmEJ9.jpeg" alt="Zoey">
+                <b>Zoey Virtual Human</b>
+        </td>
+        <td width="16%">
             <img src="https://i.imgur.com/N9TKwSU.jpeg" alt="The March">
                 <b>The March</b>
-            2019
         </td>
     </tr>
 </table>
