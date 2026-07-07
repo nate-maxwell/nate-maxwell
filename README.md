@@ -1,8 +1,8 @@
 # About Me
 
-Greetings, I'm Nathan Maxwell!
+Howdy, I'm Nate Maxwell!
 
-- Virtual Production Technical Director at **AGBO**.
+- Senior Visaulization Pipeline Engineer at **Laika**.
 
 - Addicted to learning, passionate developer.
 
